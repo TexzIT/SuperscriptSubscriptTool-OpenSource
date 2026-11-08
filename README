@@ -1,0 +1,62 @@
+# SuperscriptSubscriptTool
+
+**An open-source Microsoft Excel VBA application for applying superscript and subscript formatting.**
+
+SuperscriptSubscriptTool is an Excel-based utility designed to make applying superscript and subscript formatting to text in Microsoft Excel easier and more convenient.
+
+## Features
+
+- Apply superscript formatting.
+- Apply subscript formatting.
+- Undo applied superscript formatting.
+- Undo applied subscript formatting.
+- User-friendly interface.
+- Online help and documentation.
+- Open-source VBA implementation.
+
+## Getting Started
+
+### Download
+
+Download the latest release of `SuperscriptSubscriptTool.xlsm` from the [Releases](../../releases) page.
+
+### Installation
+
+1. Download the Excel workbook.
+2. Open the downloaded `.xlsm` file in Microsoft Excel.
+3. Enable macros if you trust the downloaded file and wish to use the application.
+4. Follow the instructions in the application.
+
+### Documentation
+
+Consult the [User Guide](DOCS/Help.md) for instructions, examples and additional information.
+
+## Source Code
+
+The VBA source code is provided in this repository for transparency, learning, modification and community contributions.
+
+## Contributing
+
+Contributions, suggestions, bug reports and improvements are welcome.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+To report a bug or request an improvement, visit the [Issues](../../issues) section.
+
+## Licence
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**TexzIT**
+
+GitHub: [TexzIT](https://github.com/TexzIT)
+
+## Support and Feedback
+
+For questions, bug reports and suggestions, please use the repository's [Issues](../../issues) section.
+
+---
+
+*SuperscriptSubscriptTool: Making superscript and subscript formatting easier in Excel.*
